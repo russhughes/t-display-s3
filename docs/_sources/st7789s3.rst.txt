@@ -1,0 +1,5 @@
+st7789s3 Reference
+==================
+
+.. automodule:: st7789s3
+   :members:
